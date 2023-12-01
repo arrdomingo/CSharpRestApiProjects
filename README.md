@@ -8,6 +8,7 @@
   - Framework: `.NET 6.0 (Long Term Support)`
   - Click `Enable OpenAPI support` to have an API documentation
   - [Reference](https://www.youtube.com/watch?v=Tj3qsKSNvMk&t=593s)
+  - Note: This project uses `Microsoft.EntityFrameworkCore.InMemory` database.
 
 ## Solution and Project Name #2 : `StudentRestAPI`
   - Project Template: `ASP.NET Core Web API`
