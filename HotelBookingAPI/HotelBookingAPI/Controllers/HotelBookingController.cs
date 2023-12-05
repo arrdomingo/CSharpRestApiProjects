@@ -79,5 +79,6 @@ namespace HotelBookingAPI.Controllers
             return new JsonResult(Ok(result));
         }
 
+        //test only
     }
 }
