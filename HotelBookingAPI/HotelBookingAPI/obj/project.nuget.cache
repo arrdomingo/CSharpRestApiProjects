@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qzo9ZTCYYbfWVBqTacEMVpV9t84XVX5vrNZVp7dcSBAxvoxUOCn8r5lkR8pTiJROjVgokFxIPd0EtFRZo77qGQ==",
+  "dgSpecHash": "bzKpn0XjzAsMFtdwmw/B47jaAVBtWMBKfkAl2PPapLh5En1Ikp6wgIiB7fJdh3Z8rmaAlILVJYNWw2xUMGeEHQ==",
   "success": true,
   "projectFilePath": "C:\\GitHub\\CSharpRestApiProjects\\HotelBookingAPI\\HotelBookingAPI\\HotelBookingAPI.csproj",
   "expectedPackageFiles": [
